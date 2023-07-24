@@ -1,0 +1,27 @@
+{
+  "name": "mediascanner",
+  "version": "1.0.0",
+  "description": "A simple script to scan and save info about media files and duplicates",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasonnathan/mediascanner.git"
+  },
+  "keywords": [
+    "duplicates",
+    "media",
+    "mp3",
+    "flac",
+    "lossless",
+    "scanner"
+  ],
+  "author": "Jason Nathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonnathan/mediascanner/issues"
+  },
+  "homepage": "https://github.com/jasonnathan/mediascanner#readme"
+}
